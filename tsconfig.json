@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es5",
+    "module": "CommonJS",
+    // "strict": true,
+    "moduleResolution": "node",
+    "declaration": true, // 打包生成.d.ts文件
+    "forceConsistentCasingInFileNames": true
+  }
+}
