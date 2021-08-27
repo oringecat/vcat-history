@@ -2,7 +2,7 @@
 效果演示：前进后退动画、前进刷新后退缓存
 
 <div align="center">
-  <img src="https://github.com/oringecat/vuex-goback/blob/main/demo.gif" >
+  <img src="https://github.com/oringecat/vcat-history-demo/blob/main/demo.gif" >
 </div>
 
 ## 特性
